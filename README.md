@@ -116,6 +116,6 @@ _Referencia simple_
 
 <a id="1">[1]</a> https://moodle2018-19.ua.es/moodle/mod/book/tool/print/index.php?id=8465#ch186
 
-<a id='2'>[2]</a>	J. B. Kuipers, [Quaternions and rotation sequences](https://amzn.to/2RY2lwI). Princeton, NJ: Princeton University Press, 2002. (Chapter 5,  Section 5.14 “Quaternions to Matrices”, pg. 125)
+<a id='2'>[2]</a>	https://www.roscomponents.com/es/robots-moviles/214-turtlebot3-burger.html#/cursos-no/turtlebot_3_burger_modelo-burger_intl_
 
 <a id="3">[3]</a>  http://rostutorial.com/7-servicios/
